@@ -1,0 +1,102 @@
+[
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\main.py",
+    "Type": "File",
+    "Size": 15086
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\new_file_005.txt",
+    "Type": "File",
+    "Size": 106
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\results.csv",
+    "Type": "File",
+    "Size": 1534
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\results.json",
+    "Type": "File",
+    "Size": 2705
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\results.pickle",
+    "Type": "File",
+    "Size": 1678
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\results.pkl",
+    "Type": "File",
+    "Size": 5
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\result_task1.json",
+    "Type": "File",
+    "Size": 126
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\result_task1.pkl",
+    "Type": "File",
+    "Size": 105
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\result_task2.json",
+    "Type": "File",
+    "Size": 243
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\result_task2.pickle",
+    "Type": "File",
+    "Size": 126
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\result_task3.csv",
+    "Type": "File",
+    "Size": 102
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\result_task4.csv",
+    "Type": "File",
+    "Size": 173
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\result_task4.json",
+    "Type": "File",
+    "Size": 654
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\result_task4.pickle",
+    "Type": "File",
+    "Size": 374
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\__init__.py",
+    "Type": "File",
+    "Size": 0
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\dir1",
+    "Type": "Directory",
+    "Size": 0
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\dir2",
+    "Type": "Directory",
+    "Size": 179
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\dir2\\new_file_003.txt",
+    "Type": "File",
+    "Size": 142
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\dir2\\dir3",
+    "Type": "Directory",
+    "Size": 37
+  },
+  {
+    "Path": "D:\\GeekBrains\\Погружение в Python\\Sem8\\dir2\\dir3\\new_file_004.txt",
+    "Type": "File",
+    "Size": 37
+  }
+]
